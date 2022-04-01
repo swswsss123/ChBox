@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">title</string>
+    <string name="delite">удолить</string>
+    <string name="addnote">Добавление записи</string>
+    <string name="addNode">добавить</string>
+</resources>
